@@ -1,0 +1,6 @@
+.keyword {
+  font-weight: 600;
+  font-size: 40px;
+  text-transform: capitalize;
+  text-decoration: underline;
+}
