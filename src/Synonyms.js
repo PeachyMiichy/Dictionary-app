@@ -1,8 +1,8 @@
 import React from "react";
 
 export default function Synonyms(props) {
-  console.log(props);
-  if (props.synonyms) {
+  console.log(props.synonyms.length);
+  if (props.synonyms.length !== 0) {
     return (
       <div className="Synonyms">
         <strong>Synonyms: </strong>
