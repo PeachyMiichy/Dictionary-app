@@ -27,6 +27,8 @@ export default function Dictionary() {
       <form onSubmit={search}>
         <input type="search" onChange={updateWord} />
       </form>
+      <div className="Hint">Suggested search: Hello, Books, Magic...</div>
+
       <Results results={results} />
     </div>
   );
