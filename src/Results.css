@@ -1,4 +1,8 @@
-.keyword {
+.Results {
+  text-align: left;
+}
+
+.Keyword {
   font-weight: 600;
   font-size: 40px;
   text-transform: capitalize;

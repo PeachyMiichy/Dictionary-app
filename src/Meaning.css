@@ -3,3 +3,9 @@
   text-transform: capitalize;
   font-weight: 400;
 }
+
+.Example {
+  text-transform: capitalize;
+  font-style: italic;
+  color: grey;
+}
