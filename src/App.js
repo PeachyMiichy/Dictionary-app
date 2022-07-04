@@ -5,7 +5,10 @@ function App() {
   return (
     <div className="App">
       <Dictionary />
-      <footer className="text-center">Coded by Michelle</footer>
+      <footer className="text-center">
+        This project is coded by <a href="#">Michelle</a>, open sourced on
+        netlify and hosted on gitHub.
+      </footer>
     </div>
   );
 }
